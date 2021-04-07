@@ -1,0 +1,2 @@
+L1L2的修改我是直接通过修改代码实现的，没有作为参数设置。
+python train.py --model_name L2base --frame_ids 0 -1 1 --use_stereo  --learning_rate 2e-5 --load_weights_folder ~/monodepth2-master/models/mono+stereo_640x192/
